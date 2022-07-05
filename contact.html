@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Recipies App</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+        <link rel="stylesheet" href="style.css" />
+        <script src="script.js" defer></script>
+    </head>
+    <body>
+        <header>
+            <h1>Contact Us...☎️</h1>
+            <nav>
+                <ul>
+                    <li><a href ="index.html">Home 🏠</a> </li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section>
+                <h2>Contact Form</h2>
+                <form action="https://httpbin.org/get" method="get">
+                    <feildset>
+                        <legend>Send us your taste😋&We will send you Recipie</legend>
+                        <p>
+                            <label for="name">Name</label>
+                            <input type="text" name="name" id="name" placeholder="Enter your name">
+                        </p>
+                        <p>
+                            <label for="Favroite Food">Favroite Food</label>
+                            <input type="text" name="Favroite Food" id="Favroite Food" placeholder="Enter your Fav. Food">
+                        </p>
+                        <p>
+                            <label for="email">Email</label>
+                            <input type="email" name="email" id="email" placeholder="Enter your email">
+                        </p>
+                        <p>
+                            <label for="phone">Phone</label>
+                            <input type="tel" name="phone" id="phone" placeholder="Enter your phone">
+                        </p>
+                        <p>
+                            <label for="message">Message</label>
+                            <br>
+                            <textarea name="message" id="message" cols="30" rows="10" placeholder="Enter your message"></textarea>
+                        </p>
+                    </feildset>
+                    <p>
+                        <button type="submit">Send</button>
+                        <button type="reset">Reset</button>
+                    </p>
+                </form>
+            </section>
+        </main>
+    </body>
+</html>
