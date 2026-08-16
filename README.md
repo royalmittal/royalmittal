@@ -1,5 +1,45 @@
-# 💫 About Me:
-🔭Programming in java<br>👯 I’m looking to collaborate on Science & Humanities Project<br>🤝 & help with Real Life based projects<br>🌱 I’m currently learning React.js <br>💬 Ask me about Algorithims<br>⚡ Shoot me an mail on kushagramittal2013@gmail.com or add me on https://www.linkedin.com/in/kushagra-mittal-66836315b/
+# Hi, I'm Kushagra Mittal 👋
+
+🎓 **B.Tech CSE'25 Graduate** | 🤖 **Machine Learning & Data Analytics** | 🏭 **Industrial AI & Predictive Maintenance**
+
+I'm a Computer Science graduate working in the **tyre manufacturing industry**, where I combine software, data analytics, and machine learning to solve real-world manufacturing problems.
+
+My current focus is on building **ML-based Predictive Maintenance systems** for tyre manufacturing — using production, downtime, machine, fault, cycle-time, and GT Loss data to predict breakdown risks and improve maintenance decisions.
+
+### 🔧 Currently Working With
+
+* Python
+* SQL
+* Machine Learning
+* Pandas & NumPy
+* Scikit-learn
+* XGBoost
+* Data Analytics & Visualization
+* Predictive Maintenance
+* Industrial Data Analytics
+
+### 🚀 Interests
+
+* Predictive Maintenance
+* Industrial AI / IIoT
+* Machine Learning
+* Data Analytics
+* Manufacturing Optimization
+* Automation & Smart Manufacturing
+
+### 📌 Current Project
+
+**Tyre Manufacturing Predictive Maintenance ML System**
+
+> Turning historical manufacturing data into actionable insights for **breakdown prediction, fault identification, GT Loss forecasting, and machine risk scoring**.
+
+### 📈 Goal
+
+To bridge the gap between **Computer Science + Machine Learning + Industrial Manufacturing** and build practical AI solutions that improve **machine availability, productivity, quality, and operational efficiency**.
+
+```text
+Code → Data → ML → Industrial Intelligence → Impact 🚀
+```
 
 
 ## 🌐 Socials:
